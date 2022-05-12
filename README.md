@@ -1,6 +1,9 @@
 ## Envato Checker(Enavto Collection Chrome Extension)
 A chrome extension to check product data from a Envato product's collection through API call.
 
+## Setup
+Change bearer token & collection id from settings.json.
+
 ## Install
 - Goto Chrome Settings using three dots on the top right corner
 - Then Select Extensions
@@ -12,7 +15,7 @@ A chrome extension to check product data from a Envato product's collection thro
 ## Output
 ![envato-collection-chrome-extension](https://www.arif-khan.net/project/github/envato-checker.gif)
 
-## LICENCE
+## License
 You can download the project, modify the code and use it anywhere you want without re-posting on any blog. Happy Coding :)
 
 Thank you.
